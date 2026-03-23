@@ -41,7 +41,7 @@ This list does not try to cover:
 - macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
 - Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
-- iOS: WhisperBoard
+- iOS: DailyVox, WhisperBoard
 
 </details>
 
@@ -56,6 +56,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [Amical](https://github.com/amicalhq/amical) | macOS, Windows | Local | Whisper | Context-aware dictation that adapts formatting to the app you are using. |
 | [Buzz](https://github.com/chidiwilliams/buzz) | Linux, macOS, Windows | Local | Whisper, Whisper.cpp, Faster Whisper | Desktop app for microphone or file transcription; text stays in its own UI rather than typing into other apps. |
 | [Chirp](https://github.com/Whamp/chirp) | Windows | Local | Parakeet TDT | Dictates into Windows apps, runs on CPU only, and is aimed at locked-down corporate environments. |
+| [DailyVox](https://github.com/intrepidkarthi/dailyvox) | iOS, iPadOS | Local | Apple Speech | Voice diary that transcribes speech on-device into journal entries with mood tracking and AI insights. |
 | [Elograf](https://github.com/papoteur-mga/elograf) | Linux | Local | Vosk (via nerd-dictation) | GUI tray frontend for nerd-dictation with model switching and timeout controls. |
 | [Epicenter Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) | Linux, macOS, Windows, Web | Hybrid | Whisper | Local-first dictation with a global shortcut and multiple Whisper providers; also available as a Chrome extension and web app. |
 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | macOS | Hybrid | Parakeet, Apple Speech, Whisper | macOS dictation app that can type into any app and switch between local speech engines. |
