@@ -79,7 +79,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [VoiceTypr](https://github.com/moinulmoin/voicetypr) | macOS, Windows | Local | Whisper-based | Voice-to-text dictation built with Tauri; the repository is open source, but binaries require a one-time license purchase. |
 | [Voquill](https://github.com/josiahsrc/voquill) | Linux, macOS, Windows | Hybrid | Whisper.cpp, BYOK cloud | Cross-platform voice typing with a personal glossary and AI-assisted cleanup. |
 | [VOXD](https://github.com/jakovius/voxd) | Linux | Local | Whisper.cpp | Linux dictation with GUI, tray, and CLI modes plus optional LLM post-processing. |
-| [VoxType](https://github.com/peteonrails/voxtype) | Linux | Local | Whisper.cpp, Parakeet, Moonshine, SenseVoice | Push-to-talk Linux dictation with seven engine choices, CJK support, and Wayland-optimized text insertion. |
+| [VoxType](https://github.com/peteonrails/voxtype) | Linux | Hybrid | Whisper.cpp, Parakeet, Moonshine, SenseVoice | Push-to-talk Linux dictation with seven engine choices, CJK support, and Wayland-optimized text insertion. |
 | [WhisperBoard](https://github.com/Saik0s/Whisperboard) | iOS | Local | Whisper.cpp | iOS app for recording speech and producing text with downloadable Whisper models. |
 | [Whisper IME](https://github.com/woheller69/whisperIME) | Android | Local | Whisper.cpp | Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid. |
 | [whisper-writer](https://github.com/savbell/whisper-writer) | Linux, macOS, Windows | Hybrid | Faster Whisper, OpenAI API | Hotkey-driven dictation that auto-types into the active window with several recording modes. |
