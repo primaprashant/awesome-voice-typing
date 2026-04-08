@@ -81,6 +81,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [VOXD](https://github.com/jakovius/voxd) | Linux | Local | Whisper.cpp | Linux dictation with GUI, tray, and CLI modes plus optional LLM post-processing. |
 | [WhisperBoard](https://github.com/Saik0s/Whisperboard) | iOS | Local | Whisper.cpp | iOS app for recording speech and producing text with downloadable Whisper models. |
 | [Whisper IME](https://github.com/woheller69/whisperIME) | Android | Local | Whisper.cpp | Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid. |
+| [TAMSIV](https://www.tamsiv.com) | Android | Hybrid | Native Android STT, Deepgram | Voice-powered AI task manager that creates tasks, memos, and calendar events from natural conversation. Uses on-device STT with cloud AI for understanding. |
 | [whisper-writer](https://github.com/savbell/whisper-writer) | Linux, macOS, Windows | Hybrid | Faster Whisper, OpenAI API | Hotkey-driven dictation that auto-types into the active window with several recording modes. |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation) | Linux | Local | Whisper.cpp | Feature-rich Linux voice keyboard with dictation, voice commands, and webcam integration. |
 
