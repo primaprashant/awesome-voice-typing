@@ -101,6 +101,7 @@ Speech recognition engines, models, and APIs that power the tools listed above.
 
 - Entries are linked to their source repository rather than landing pages or app-store listings.
 - Some projects on this list also offer paid binaries or hosted features. They still belong here if the underlying repository is open source.
+- Submissions are held to a minimum maturity bar. See [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 
 ## Contributing
 

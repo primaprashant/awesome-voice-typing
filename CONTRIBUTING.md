@@ -12,6 +12,12 @@ To be listed, a project should meet all of the following:
 2. **Voice typing or dictation focused** - The primary workflow is speaking and getting text into an active app, text field, keyboard, clipboard, or terminal workflow.
 3. **Usable as a product** - Apps, keyboards, menu bar tools, and CLI tools belong here. Libraries, APIs, and raw speech engines do not.
 4. **Still available** - The repository is public and not deleted, abandoned beyond practical use, or archived without a working path for users.
+5. **Minimum maturity** - As a rough guideline, projects are typically expected to have:
+   - **~50+ GitHub stars**, or another clear signal of real users (packaging in a distro, coverage in independent write-ups, an active issue tracker with non-author participants, etc.)
+   - **~3+ months** since the first public commit
+   - **A tagged release, published binary, or working install path** that someone other than the author could actually use
+
+   These are soft floors, not hard gates. A project that clears the spirit of the bar but misses one number (for example, a two-month-old project with 200 stars and a lively issue tracker) is fine. A project that technically clears every number but has no evidence of real users is not.
 
 ## What Does Not Belong Here
 
@@ -63,3 +69,4 @@ If a project no longer fits the scope, is no longer open source, has been archiv
 
 - Open-source repositories that also sell paid binaries or hosted features can still be listed.
 - If a project supports `Web` in addition to desktop or mobile platforms, include `Web` in the directory row.
+- Self-submissions are welcome. If you are the author or a maintainer of the project, please say so in the PR description. Self-submitted projects are held to the same criteria as any third-party submission.
