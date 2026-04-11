@@ -32,14 +32,14 @@ To be listed, a project should meet all of the following:
 2. Add the project to the `Directory` table in `README.md` in **alphabetical order** (case-insensitive) using this format:
 
    ```
-   | [Name](https://github.com/user/repo)<br/>![stars](https://img.shields.io/github/stars/user/repo?style=plastic&label=%E2%98%85) | Platforms | Mode | Engine | Summary |
+   | [Name](https://github.com/user/repo)<br/><br/>![stars](https://img.shields.io/github/stars/user/repo?style=plastic&label=%E2%98%85) | Platforms | Mode | Engine | Summary |
    ```
 
 3. Use these column rules:
 
    | Column | Format | Example |
    | --- | --- | --- |
-   | Name | Linked project name (title case) followed by a `<br/>` and a star-count badge on its own line | `[VoiceInk](https://github.com/Beingpax/VoiceInk)<br/>![stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=plastic&label=%E2%98%85)` |
+   | Name | Linked project name (title case) followed by a `<br/><br/>` and a star-count badge on its own line | `[VoiceInk](https://github.com/Beingpax/VoiceInk)<br/><br/>![stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=plastic&label=%E2%98%85)` |
    | Platforms | Comma-separated | `Linux, macOS, Windows` |
    | Mode | `Local` or `Hybrid` | `Local` |
    | Engine | Speech-to-text engine(s) used | `Whisper.cpp, Faster Whisper` |
