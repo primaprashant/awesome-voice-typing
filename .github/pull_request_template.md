@@ -13,7 +13,6 @@
 - [ ] I linked the source repository, not a landing page or app-store listing.
 - [ ] I added or updated the `Directory` row in alphabetical order.
 - [ ] I updated the `Browse by platform` block in alphabetical order.
-- [ ] I updated the `Platform Snapshot` counts if this change affects them.
 - [ ] The summary is concise, objective, and ends with a period.
 
 ## References
