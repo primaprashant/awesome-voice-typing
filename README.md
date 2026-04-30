@@ -41,7 +41,7 @@ This list does not try to cover:
 - macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
 - Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
-- iOS: WhisperBoard
+- iOS: Diction, WhisperBoard
 
 </details>
 
@@ -56,6 +56,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [Amical](https://github.com/amicalhq/amical)<br/><br/>![stars](https://img.shields.io/github/stars/amicalhq/amical?style=plastic&label=%E2%98%85) | macOS, Windows | Local | Whisper | Context-aware dictation that adapts formatting to the app you are using. |
 | [Buzz](https://github.com/chidiwilliams/buzz)<br/><br/>![stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Whisper, Whisper.cpp, Faster Whisper | Desktop app for microphone or file transcription; text stays in its own UI rather than typing into other apps. |
 | [Chirp](https://github.com/Whamp/chirp)<br/><br/>![stars](https://img.shields.io/github/stars/Whamp/chirp?style=plastic&label=%E2%98%85) | Windows | Local | Parakeet TDT | Dictates into Windows apps, runs on CPU only, and is aimed at locked-down corporate environments. |
+| [Diction](https://github.com/omachala/diction)<br/><br/>![stars](https://img.shields.io/github/stars/omachala/diction?style=plastic&label=%E2%98%85) | iOS | Hybrid | Parakeet TDT, Whisper | iOS keyboard extension that types transcribed speech into any app; supports on-device Parakeet, self-hosted Whisper servers, and BYO cloud endpoints. |
 | [Elograf](https://github.com/papoteur-mga/elograf)<br/><br/>![stars](https://img.shields.io/github/stars/papoteur-mga/elograf?style=plastic&label=%E2%98%85) | Linux | Local | Vosk (via nerd-dictation) | GUI tray frontend for nerd-dictation with model switching and timeout controls. |
 | [Epicenter Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering)<br/><br/>![stars](https://img.shields.io/github/stars/EpicenterHQ/epicenter?style=plastic&label=%E2%98%85) | Linux, macOS, Windows, Web | Hybrid | Whisper | Local-first dictation with a global shortcut and multiple Whisper providers; also available as a Chrome extension and web app. |
 | [FluidVoice](https://github.com/altic-dev/FluidVoice)<br/><br/>![stars](https://img.shields.io/github/stars/altic-dev/FluidVoice?style=plastic&label=%E2%98%85) | macOS | Hybrid | Parakeet, Apple Speech, Whisper | macOS dictation app that can type into any app and switch between local speech engines. |
