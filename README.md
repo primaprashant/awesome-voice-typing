@@ -12,6 +12,7 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 
 ## Contents
 
+- [Just Tell Me What to Use](#just-tell-me-what-to-use)
 - [Scope](#scope)
 - [Platform Snapshot](#platform-snapshot)
 - [Directory](#directory)
@@ -19,6 +20,16 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 - [Inclusion Notes](#inclusion-notes)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Just Tell Me What to Use
+
+All these tools do the same core thing: transcribe your speech and paste it wherever your cursor is. The differences come down to platform, engine preference, and how much you want beyond basic dictation.
+
+A few starting points:
+
+- **Cross-platform default:** [Handy](https://github.com/cjpais/Handy). Biggest open-source project in this list, runs on Linux, macOS, and Windows.
+- **On macOS, want a native feel:** [VoiceInk](https://github.com/Beingpax/VoiceInk) or [FluidVoice](https://github.com/altic-dev/FluidVoice).
+- **Want cloud providers or AI transformations on top:** [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) or [OpenWhispr](https://github.com/OpenWhispr/openwhispr).
 
 ## Scope
 
