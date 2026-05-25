@@ -53,6 +53,7 @@ This list does not try to cover:
 - Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
 - iOS: WhisperBoard
+- Web: Epicenter Whispering, Voicefield
 
 </details>
 
@@ -88,6 +89,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [Vibe](https://github.com/thewh1teagle/vibe)<br/><br/>![stars](https://img.shields.io/github/stars/thewh1teagle/vibe?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Whisper.cpp | Desktop app to transcribe audio and video offline using OpenAI Whisper. |
 | [Vocalinux](https://github.com/jatinkrmalik/vocalinux)<br/><br/>![stars](https://img.shields.io/github/stars/jatinkrmalik/vocalinux?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp, Whisper, Vosk | Linux dictation with distro-specific setup guides and Vulkan acceleration notes. |
 | [VoiceInk](https://github.com/Beingpax/VoiceInk)<br/><br/>![stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=plastic&label=%E2%98%85) | macOS | Hybrid | WhisperKit, BYOK | Native macOS dictation with per-app tuning, a custom dictionary, and optional commercial distribution. |
+| [Voicefield](https://github.com/tatargabor/voicefield)<br/><br/>![stars](https://img.shields.io/github/stars/tatargabor/voicefield?style=plastic&label=%E2%98%85) | Web | Hybrid | Web Speech API, Soniox | React hook that turns a phone into a wireless mic for any web form via QR code pairing; speech recognition runs on the phone and only text reaches the server. |
 | [VoiceTypr](https://github.com/moinulmoin/voicetypr)<br/><br/>![stars](https://img.shields.io/github/stars/moinulmoin/voicetypr?style=plastic&label=%E2%98%85) | macOS, Windows | Local | Whisper-based | Voice-to-text dictation built with Tauri; the repository is open source, but binaries require a one-time license purchase. |
 | [Voquill](https://github.com/josiahsrc/voquill)<br/><br/>![stars](https://img.shields.io/github/stars/josiahsrc/voquill?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Hybrid | Whisper.cpp, BYOK cloud | Cross-platform voice typing with a personal glossary and AI-assisted cleanup. |
 | [VOXD](https://github.com/jakovius/voxd)<br/><br/>![stars](https://img.shields.io/github/stars/jakovius/voxd?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Linux dictation with GUI, tray, and CLI modes plus optional LLM post-processing. |
