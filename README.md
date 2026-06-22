@@ -49,8 +49,8 @@ This list does not try to cover:
 <summary>Browse by platform</summary>
 
 - Linux: Buzz, Elograf, Epicenter Whispering, Handy, HNS, hyprwhspr, nerd-dictation, OpenWhispr, Speak to AI, Vibe, Vocalinux, Voquill, VOXD, VoxType, whisper_dictation, whisper-writer
-- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
-- Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
+- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Glimpse, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
+- Windows: Amical, Buzz, Chirp, Epicenter Whispering, Glimpse, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
 - iOS: WhisperBoard
 
@@ -72,6 +72,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [FluidVoice](https://github.com/altic-dev/FluidVoice)<br/><br/>![stars](https://img.shields.io/github/stars/altic-dev/FluidVoice?style=plastic&label=%E2%98%85) | macOS | Hybrid | Parakeet, Apple Speech, Whisper | macOS dictation app that can type into any app and switch between local speech engines. |
 | [FnKey](https://github.com/evoleinik/fnkey)<br/><br/>![stars](https://img.shields.io/github/stars/evoleinik/fnkey?style=plastic&label=%E2%98%85) | macOS | Hybrid | Deepgram Nova-3, Groq Whisper | Rust menu bar app that activates the microphone only while holding Fn, with real-time streaming and batch cloud backends. |
 | [Ghost Pepper](https://github.com/matthartman/ghost-pepper)<br/><br/>![stars](https://img.shields.io/github/stars/matthartman/ghost-pepper?style=plastic&label=%E2%98%85) | macOS | Local | WhisperKit | Hold-to-talk menu bar dictation with local LLM cleanup of filler words; runs entirely on Apple Silicon. |
+| [Glimpse](https://github.com/glimpse-hq/Glimpse)<br/><br/>![stars](https://img.shields.io/github/stars/glimpse-hq/Glimpse?style=plastic&label=%E2%98%85) | macOS, Windows | Hybrid | Whisper.cpp, Parakeet TDT | Dictation with a custom dictionary, text replacements, and a library for transcribing imported audio and video files. |
 | [Handy](https://github.com/cjpais/Handy)<br/><br/>![stars](https://img.shields.io/github/stars/cjpais/Handy?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Whisper.cpp, Parakeet TDT | Shortcut-driven offline dictation built with Tauri and supporting several ASR model families. |
 | [HNS](https://github.com/primaprashant/hns)<br/><br/>![stars](https://img.shields.io/github/stars/primaprashant/hns?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Faster Whisper | CLI tool that records from your mic, transcribes locally, and copies the result to the clipboard. |
 | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br/><br/>![stars](https://img.shields.io/github/stars/goodroot/hyprwhspr?style=plastic&label=%E2%98%85) | Linux | Hybrid | Whisper.cpp, Parakeet, BYOK cloud | Push-to-talk Linux dictation with a visualizer plus Waybar and systemd integration. |
