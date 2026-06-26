@@ -49,7 +49,7 @@ This list does not try to cover:
 <summary>Browse by platform</summary>
 
 - Linux: Buzz, Elograf, Epicenter Whispering, Handy, HNS, hyprwhspr, nerd-dictation, OpenWhispr, Speak to AI, Vibe, Vocalinux, Voquill, VOXD, VoxType, whisper_dictation, whisper-writer
-- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
+- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, VoxFlow, whisper-writer
 - Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
 - iOS: WhisperBoard
@@ -91,6 +91,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [VoiceTypr](https://github.com/moinulmoin/voicetypr)<br/><br/>![stars](https://img.shields.io/github/stars/moinulmoin/voicetypr?style=plastic&label=%E2%98%85) | macOS, Windows | Local | Whisper-based | Voice-to-text dictation built with Tauri; the repository is open source, but binaries require a one-time license purchase. |
 | [Voquill](https://github.com/josiahsrc/voquill)<br/><br/>![stars](https://img.shields.io/github/stars/josiahsrc/voquill?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Hybrid | Whisper.cpp, BYOK cloud | Cross-platform voice typing with a personal glossary and AI-assisted cleanup. |
 | [VOXD](https://github.com/jakovius/voxd)<br/><br/>![stars](https://img.shields.io/github/stars/jakovius/voxd?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Linux dictation with GUI, tray, and CLI modes plus optional LLM post-processing. |
+| [VoxFlow](https://github.com/xingbofeng/VoxFlow)<br/><br/>![stars](https://img.shields.io/github/stars/xingbofeng/VoxFlow?style=plastic&label=%E2%98%85) | macOS | Hybrid | Apple Speech, WhisperKit, Qwen3-ASR, cloud ASR | Menu bar dictation workspace that inserts text into the focused app and keeps local history. |
 | [VoxType](https://github.com/peteonrails/voxtype)<br/><br/>![stars](https://img.shields.io/github/stars/peteonrails/voxtype?style=plastic&label=%E2%98%85) | Linux | Hybrid | Whisper.cpp, Parakeet, Moonshine, SenseVoice | Push-to-talk Linux dictation with seven engine choices, CJK support, and Wayland-optimized text insertion. |
 | [WhisperBoard](https://github.com/Saik0s/Whisperboard)<br/><br/>![stars](https://img.shields.io/github/stars/Saik0s/Whisperboard?style=plastic&label=%E2%98%85) | iOS | Local | Whisper.cpp | iOS app for recording speech and producing text with downloadable Whisper models. |
 | [Whisper IME](https://github.com/woheller69/whisperIME)<br/><br/>![stars](https://img.shields.io/github/stars/woheller69/whisperIME?style=plastic&label=%E2%98%85) | Android | Local | Whisper.cpp | Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid. |
