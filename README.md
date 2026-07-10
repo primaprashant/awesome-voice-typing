@@ -49,7 +49,7 @@ This list does not try to cover:
 <summary>Browse by platform</summary>
 
 - Linux: Buzz, Elograf, Epicenter Whispering, Handy, HNS, hyprwhspr, nerd-dictation, OpenWhispr, Speak to AI, Vibe, Vocalinux, Voquill, VOXD, VoxType, whisper_dictation, whisper-writer
-- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
+- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, Off Grid AI Desktop, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
 - Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
 - iOS: WhisperBoard
@@ -76,6 +76,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [HNS](https://github.com/primaprashant/hns)<br/><br/>![stars](https://img.shields.io/github/stars/primaprashant/hns?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Faster Whisper | CLI tool that records from your mic, transcribes locally, and copies the result to the clipboard. |
 | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br/><br/>![stars](https://img.shields.io/github/stars/goodroot/hyprwhspr?style=plastic&label=%E2%98%85) | Linux | Hybrid | Whisper.cpp, Parakeet, BYOK cloud | Push-to-talk Linux dictation with a visualizer plus Waybar and systemd integration. |
 | [nerd-dictation](https://github.com/ideasman42/nerd-dictation)<br/><br/>![stars](https://img.shields.io/github/stars/ideasman42/nerd-dictation?style=plastic&label=%E2%98%85) | Linux | Local | Vosk | Hackable offline dictation that types into any window via simulated keystrokes. |
+| [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)<br/><br/>![stars](https://img.shields.io/github/stars/off-grid-ai/off-grid-ai-desktop?style=plastic&label=%E2%98%85) | macOS | Local | Whisper.cpp | On-device voice dictation that types transcribed speech into any macOS app, powered by Whisper.cpp. |
 | [Offline Voice Input (Android)](https://github.com/notune/android_transcribe_app)<br/><br/>![stars](https://img.shields.io/github/stars/notune/android_transcribe_app?style=plastic&label=%E2%98%85) | Android | Local | Parakeet TDT | Offline Android voice input keyboard with live subtitles and a privacy-first focus. |
 | [OmniDictate](https://github.com/gurjar1/OmniDictate)<br/><br/>![stars](https://img.shields.io/github/stars/gurjar1/OmniDictate?style=plastic&label=%E2%98%85) | Windows | Local | Whisper | Desktop dictation tool aimed at type-anywhere workflows. |
 | [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)<br/><br/>![stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=plastic&label=%E2%98%85) | macOS | Local | Whisper, Parakeet | Native Swift menu bar dictation app optimized for Apple Silicon and global shortcuts. |
