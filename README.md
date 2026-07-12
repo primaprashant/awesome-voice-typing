@@ -50,7 +50,7 @@ This list does not try to cover:
 
 - Linux: Buzz, Elograf, Epicenter Whispering, Handy, HNS, hyprwhspr, nerd-dictation, OpenWhispr, Speak to AI, Vibe, Vocalinux, Voquill, VOXD, VoxType, whisper_dictation, whisper-writer
 - macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
-- Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
+- Windows: Amical, Buzz, CapsWriter-Offline, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
 - iOS: WhisperBoard
 
@@ -66,6 +66,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | --- | --- | --- | --- | --- |
 | [Amical](https://github.com/amicalhq/amical)<br/><br/>![stars](https://img.shields.io/github/stars/amicalhq/amical?style=plastic&label=%E2%98%85) | macOS, Windows | Local | Whisper | Context-aware dictation that adapts formatting to the app you are using. |
 | [Buzz](https://github.com/chidiwilliams/buzz)<br/><br/>![stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Whisper, Whisper.cpp, Faster Whisper | Desktop app for microphone or file transcription; text stays in its own UI rather than typing into other apps. |
+| [CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)<br/><br/>![stars](https://img.shields.io/github/stars/HaujetZhao/CapsWriter-Offline?style=plastic&label=%E2%98%85) | Windows | Local | Paraformer, SenseVoice, Fun-ASR-Nano, Qwen3-ASR | Hold-to-dictate tool with fully offline Chinese and English recognition, phoneme-based hotword correction, LLM post-processing roles, and date-archived transcripts with audio. |
 | [Chirp](https://github.com/Whamp/chirp)<br/><br/>![stars](https://img.shields.io/github/stars/Whamp/chirp?style=plastic&label=%E2%98%85) | Windows | Local | Parakeet TDT | Dictates into Windows apps, runs on CPU only, and is aimed at locked-down corporate environments. |
 | [Elograf](https://github.com/papoteur-mga/elograf)<br/><br/>![stars](https://img.shields.io/github/stars/papoteur-mga/elograf?style=plastic&label=%E2%98%85) | Linux | Local | Vosk (via nerd-dictation) | GUI tray frontend for nerd-dictation with model switching and timeout controls. |
 | [Epicenter Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering)<br/><br/>![stars](https://img.shields.io/github/stars/EpicenterHQ/epicenter?style=plastic&label=%E2%98%85) | Linux, macOS, Windows, Web | Hybrid | Whisper | Local-first dictation with a global shortcut and multiple Whisper providers; also available as a Chrome extension and web app. |
