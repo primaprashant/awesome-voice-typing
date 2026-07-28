@@ -49,7 +49,7 @@ This list does not try to cover:
 <summary>Browse by platform</summary>
 
 - Linux: Buzz, Elograf, Epicenter Whispering, Handy, HNS, hyprwhspr, nerd-dictation, OpenWhispr, Speak to AI, Vibe, Vocalinux, Voquill, VOXD, VoxType, whisper_dictation, whisper-writer
-- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer
+- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer, Yap
 - Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
 - iOS: WhisperBoard
@@ -96,6 +96,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [Whisper IME](https://github.com/woheller69/whisperIME)<br/><br/>![stars](https://img.shields.io/github/stars/woheller69/whisperIME?style=plastic&label=%E2%98%85) | Android | Local | Whisper.cpp | Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid. |
 | [whisper-writer](https://github.com/savbell/whisper-writer)<br/><br/>![stars](https://img.shields.io/github/stars/savbell/whisper-writer?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Hybrid | Faster Whisper, OpenAI API | Hotkey-driven dictation that auto-types into the active window with several recording modes. |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation)<br/><br/>![stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Feature-rich Linux voice keyboard with dictation, voice commands, and webcam integration. |
+| [Yap](https://github.com/FrigadeHQ/yap)<br/><br/>![stars](https://img.shields.io/github/stars/FrigadeHQ/yap?style=plastic&label=%E2%98%85) | macOS | Local | Apple Speech | Native macOS 26 menu bar dictation using Apple's SpeechAnalyzer for streaming on-device transcription. |
 
 ## Related Projects
 
