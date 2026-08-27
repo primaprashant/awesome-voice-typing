@@ -49,7 +49,7 @@ This list does not try to cover:
 <summary>Browse by platform</summary>
 
 - Linux: Buzz, Elograf, Epicenter Whispering, Handy, HNS, hyprwhspr, nerd-dictation, OpenWhispr, Speak to AI, Vibe, Vocalinux, Voquill, VOXD, VoxType, whisper_dictation, whisper-writer
-- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer, Yap
+- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Quill, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer, Yap
 - Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
 - Android: Offline Voice Input, Transcribro, Whisper IME
 - iOS: WhisperBoard
@@ -81,6 +81,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)<br/><br/>![stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=plastic&label=%E2%98%85) | macOS | Local | Whisper, Parakeet | Native Swift menu bar dictation app optimized for Apple Silicon and global shortcuts. |
 | [OpenWhispr](https://github.com/OpenWhispr/openwhispr)<br/><br/>![stars](https://img.shields.io/github/stars/OpenWhispr/openwhispr?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Hybrid | Whisper.cpp, Parakeet, BYOK cloud | Cross-platform dictation with local models, optional cloud providers, and a custom dictionary. |
 | [Pindrop](https://github.com/watzon/pindrop)<br/><br/>![stars](https://img.shields.io/github/stars/watzon/pindrop?style=plastic&label=%E2%98%85) | macOS | Local | WhisperKit | Offline menu bar dictation app with optional AI-based transcript cleanup. |
+| [Quill](https://github.com/skundu42/quill)<br/><br/>![stars](https://img.shields.io/github/stars/skundu42/quill?style=plastic&label=%E2%98%85) | macOS | Hybrid | Gemini 3.5 Transcribe | Native system-wide voice typing that inserts cleaned-up text at your cursor into any app, using your own Gemini API key. |
 | [Speak to AI](https://github.com/AshBuk/speak-to-ai)<br/><br/>![stars](https://img.shields.io/github/stars/AshBuk/speak-to-ai?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Minimal Linux dictation tool that inserts text into the active window and can also run from the CLI. |
 | [Tambourine Voice](https://github.com/kstonekuan/tambourine-voice)<br/><br/>![stars](https://img.shields.io/github/stars/kstonekuan/tambourine-voice?style=plastic&label=%E2%98%85) | macOS, Windows | Hybrid | Faster Whisper, BYOK cloud | Voice interface for any app with configurable STT and LLM providers. |
 | [Transcribro](https://github.com/soupslurpr/Transcribro)<br/><br/>![stars](https://img.shields.io/github/stars/soupslurpr/Transcribro?style=plastic&label=%E2%98%85) | Android | Local | Whisper.cpp | Private and on-device speech recognition keyboard and service for Android. |
