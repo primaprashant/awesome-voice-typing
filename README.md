@@ -14,7 +14,6 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 
 - [Just Tell Me What to Use](#just-tell-me-what-to-use)
 - [Scope](#scope)
-- [Platform Snapshot](#platform-snapshot)
 - [Directory](#directory)
 - [Related Projects](#related-projects)
 - [Inclusion Notes](#inclusion-notes)
@@ -44,17 +43,6 @@ This list does not try to cover:
 - Closed-source products
 - General transcription tools that do not support typing or dictation workflows
 - Meeting bots, note takers, or speech APIs without a usable typing interface
-
-<details>
-<summary>Browse by platform</summary>
-
-- Linux: Buzz, Elograf, Epicenter Whispering, Handy, HNS, hyprwhspr, nerd-dictation, OpenWhispr, Speak to AI, Vibe, Vocalinux, Voquill, VOXD, VoxType, whisper_dictation, whisper-writer
-- macOS: Amical, Buzz, Epicenter Whispering, FluidVoice, FnKey, Ghost Pepper, Handy, HNS, OpenSuperWhisper, OpenWhispr, Pindrop, Tambourine Voice, TypeWhisper, Vibe, VoiceInk, VoiceTypr, Voquill, whisper-writer, Yap
-- Windows: Amical, Buzz, Chirp, Epicenter Whispering, Handy, HNS, OmniDictate, OpenWhispr, Tambourine Voice, Vibe, VoiceTypr, Voquill, whisper-writer
-- Android: Offline Voice Input, Transcribro, Whisper IME
-- iOS: WhisperBoard
-
-</details>
 
 Most tools on this list support offline speech recognition. See `Mode` and `Engine` in the directory below for the details.
 
