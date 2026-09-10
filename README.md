@@ -89,6 +89,7 @@ Most tools on this list support offline speech recognition. See `Mode` and `Engi
 | [whisper-writer](https://github.com/savbell/whisper-writer)<br/><br/>![stars](https://img.shields.io/github/stars/savbell/whisper-writer?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Hybrid | Faster Whisper, OpenAI API | Hotkey-driven dictation that auto-types into the active window with several recording modes. |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation)<br/><br/>![stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Feature-rich Linux voice keyboard with dictation, voice commands, and webcam integration. |
 | [Yap](https://github.com/FrigadeHQ/yap)<br/><br/>![stars](https://img.shields.io/github/stars/FrigadeHQ/yap?style=plastic&label=%E2%98%85) | macOS | Local | Apple Speech | Native macOS 26 menu bar dictation using Apple's SpeechAnalyzer for streaming on-device transcription. |
+| [YazSes](https://github.com/MSKazemi/yazses)<br/><br/>![stars](https://img.shields.io/github/stars/MSKazemi/yazses?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Faster Whisper, Parakeet | Hold-to-talk daemon with voice commands, offline meeting transcription with speaker labels, and a dysfluency-friendly mode for stuttered speech. |
 
 ## Related Projects
 
