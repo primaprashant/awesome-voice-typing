@@ -109,6 +109,7 @@ Last updated: 2026-09-20
 | [Whisper IME](https://github.com/woheller69/whisperIME)<br/><br/>![stars](https://img.shields.io/github/stars/woheller69/whisperIME?style=plastic&label=%E2%98%85) | Android | Local | Whisper.cpp | Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid. |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation)<br/><br/>![stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Feature-rich Linux voice keyboard with dictation, voice commands, and webcam integration. |
 | [Yap](https://github.com/FrigadeHQ/yap)<br/><br/>![stars](https://img.shields.io/github/stars/FrigadeHQ/yap?style=plastic&label=%E2%98%85) | macOS | Local | Apple Speech | Native macOS 26 menu bar dictation using Apple's SpeechAnalyzer for streaming on-device transcription. |
+| [YazSes](https://github.com/MSKazemi/yazses)<br/><br/>![stars](https://img.shields.io/github/stars/MSKazemi/yazses?style=plastic&label=%E2%98%85) | Linux, macOS, Windows | Local | Faster Whisper, Parakeet | Hold-to-talk daemon with voice commands, offline meeting transcription with speaker labels, and a dysfluency-friendly mode for stuttered speech. |
 
 ## Related Projects
 
