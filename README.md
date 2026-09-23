@@ -114,6 +114,7 @@ Last updated: 2026-09-23
 | [Whisper IME](https://github.com/woheller69/whisperIME)<br/><br/>![stars](https://img.shields.io/github/stars/woheller69/whisperIME?style=plastic&label=%E2%98%85) | Android | Local | Whisper.cpp | Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid. |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation)<br/><br/>![stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Feature-rich Linux voice keyboard with dictation, voice commands, and webcam integration. |
 | [Yap](https://github.com/FrigadeHQ/yap)<br/><br/>![stars](https://img.shields.io/github/stars/FrigadeHQ/yap?style=plastic&label=%E2%98%85) | macOS | Local | Apple Speech | Native macOS 26 menu bar dictation using Apple's SpeechAnalyzer for streaming on-device transcription. |
+| [Yapsnap](https://github.com/kouhxp/yapsnap)<br/><br/>![stars](https://img.shields.io/github/stars/kouhxp/yapsnap?style=plastic&label=%E2%98%85) | Linux, Windows, macOS | Local | Kroko | Transcribe any video URL, audio file or meeting into plaintext. No GPU. No cloud APIs. One command. |
 
 ## Related Projects
 
