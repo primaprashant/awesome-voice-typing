@@ -114,6 +114,7 @@ Last updated: 2026-09-28
 | [Whisper IME](https://github.com/woheller69/whisperIME)<br/><br/>![stars](https://img.shields.io/github/stars/woheller69/whisperIME?style=plastic&label=%E2%98%85) | Android | Local | Whisper.cpp | Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid. |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation)<br/><br/>![stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=plastic&label=%E2%98%85) | Linux | Local | Whisper.cpp | Feature-rich Linux voice keyboard with dictation, voice commands, and webcam integration. |
 | [Yap](https://github.com/FrigadeHQ/yap)<br/><br/>![stars](https://img.shields.io/github/stars/FrigadeHQ/yap?style=plastic&label=%E2%98%85) | macOS | Local | Apple Speech | Native macOS 26 menu bar dictation using Apple's SpeechAnalyzer for streaming on-device transcription. |
+| [Saymore](https://github.com/frankzch/Saymore)<br/><br/>![stars](https://img.shields.io/github/stars/frankzch/Saymore?style=plastic&label=%E2%98%85) | Windows | Local | Not disclosed | Windows-only Chinese voice typing tool that runs recognition, text cleanup, and hotwords on-device; the unsigned installer needs a one-time 1.5 GB model download. |
 
 ## Related Projects
 
